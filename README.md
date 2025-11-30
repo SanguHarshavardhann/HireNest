@@ -69,9 +69,9 @@ Authentication uses **Clerk** and/or **Firebase Auth** for secure, seamless logi
 
 ### 1) Clone the repository
 
-git clone https://github.com/raghuram1784/local-services-connector.git
+git clone https://github.com/SanguHarshavardhann/HireNest.git
 
-cd local-services-connector
+cd HireNest
 
 ---
 
